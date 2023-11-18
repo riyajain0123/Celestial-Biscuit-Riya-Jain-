@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="ri.css">
+    <title> Html Webpage</title>
+    
+</head>
+<body>
+    
+    <h1>MANAGING STRESS</h1>
+    <hr>
+    <h2>Some Common Causes Of Stress</h2>
+    <ul>
+        <li>Having problems at work or at home</li>
+        <li>Having money problems</li>
+        <li>Dealing with the death of a loved one</li>
+        <li>Needing to do a lot in a short amount of time</li>
+        <li>Having an argument</li>
+        <li>Getting ready for a work or school presentation</li>
+        <li>Having a lot of small problems in the same day, like getting stuck in traffic jam or running late</li>
+    </ul>
+    <img src="stress.jpg" class="stress">
+    <marquee  width="30%" direction="left" behaviour="alternate" scrollamount="10">
+    <h2>How to Cure Stress</h2>
+    </marquee>
+    <p>
+        <h4>Practice the 4 A's of stress management</h4>
+        <h3>1>Avoid unnecessary Stress</h3>
+        <p1 class="p">
+        * It's not healthy to avoid a stressful situation that needs to be addressed, but you may be surprised by the number of stressors in your life that you can eliminate.
+        * Learn how to say “no.” Know your limits and stick to them. Whether in your personal or professional life, taking on more than you can handle is a surefire recipe for stress.
+        <br>
+        * If someone consistently causes stress in your life, limit the amount of time you spend with that person, or end the relationship.
+       <br>
+        * Perfectionism is a major source of avoidable stress. Stop setting yourself up for failure by demanding perfection. Set reasonable standards for yourself and others, and learn to be okay with “good enough.”
+        <br>
+        * When stress is getting you down, take a moment to reflect on all the things you appreciate in your life, including your own positive qualities and gifts. This simple strategy can help you keep things in perspective.
+        </p1>
+        <h3>2>Accept the things you can't change</h3>
+        <p2 class="p">
+
+        * Don't try to control the uncontrollable. Many things in life are beyond our control, particularly the behavior of other people. Rather than stressing out over them, focus on the things you can control such as the way you choose to react to problems.
+        <br>
+        * Look for the upside. When facing major challenges, try to look at them as opportunities for personal growth. If your own poor choices contributed to a stressful situation, reflect on them and learn from your mistakes.
+        <br>
+        * Learn to forgive. Accept the fact that we live in an imperfect world and that people make mistakes. Let go of anger and resentments. Free yourself from negative energy by forgiving and moving on.
+        <br>
+        * Share your feelings. Expressing what you're going through can be very cathartic, even if there's nothing you can do to alter the stressful situation. Talk to a trusted friend or make an appointment with a therapist.
+        </p2>
+        <h3>3>Alter and communicate clearly and let people know your expectations</h3>
+        <p3 class="p">
+            * Respectfully ask someone to alter how they are treating you. Remember to use "I" statements when addressing someone about how you feel.
+        <br>
+            * State your limitations in advance. For example, you can say, "I only have five minutes to talk."
+        </p3>
+        <h3>4>Adapt by changing your standards and expectations</h3>
+        <p4 class="p">
+           * Don't strive for perfection. Instead make reasonable substitutes throughout your daily life.
+           <br>
+           * Choose dinners that are easier to prepare and still make your family happy.
+           <br>
+           * Don't replaying stressful situations over and over in your head.
+           <br>
+           * Choose to focus on the positive aspects in your life.
+           <br>
+           * Change your perspective by asking yourself if the stressor will matter in five years.
+        </p4>
+        <br>
+        <br>
+        <p5 class="yoga">By practising YOGA</p5>
+        <br>
+        <video class="video" width="800" height="800" controls>
+            <source src="med 4k.mp4">
+        </video>
+        <br>
+        <p6 class="p">To know more asanas of YOGA <a href="https://www.palladiumprivate.com/blog/7-yoga-poses-for-stress-relief/">click here</a> </p6>
+    </p>
+    <br>
+    <iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/7zwiFdY90oXzLh1Wz22oEq?utm_source=generator" width="40%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+    <br>
+    <br>
+    <label for="message" class="suggestions">Please  help us to improve our website!</label>
+    <br>
+    <br>
+    <textarea class="dropbox" name="message" id="message" cols="30" rows="10" placeholder="enter your suggestions here!!"></textarea>
+    </label>
+    <br>
+    <button class="button" type="submit">SHARE</button>
+ 
+</body>
+</html>
