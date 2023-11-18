@@ -1,0 +1,71 @@
+body
+{
+    background-image: url("Forest_landscape_generated.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h1
+{   
+    margin-right: 360px;
+    background-color: whitesmoke;   
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 400px;
+    font-size: 50px;
+    color: black
+}
+h2
+{   
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: aliceblue;
+}
+h3
+{   
+    font-size: 25px;
+    color: beige;
+    font-weight: bolder;
+}
+h4
+{
+    color:cadetblue ;
+    font-size: 35px;
+}
+ul
+{   
+    font-size: 20px;
+    font-style: normal;
+    font-weight: bolder;
+    color: burlywood;
+}
+.p
+{
+ font-size: 20px;   
+ color: rgb(163, 173, 143);
+}
+.yoga
+{
+    color:cadetblue ;
+    font-size: 35px;
+}
+.stress
+{   
+    margin-left:200px ; 
+    width: 800px;
+    height:500px;
+}
+a:hover
+{   
+    padding: 2px;
+    background-color: black;
+    color: aliceblue;
+}
+.suggestions
+{ 
+    font-size:20px;
+    color: aquamarine;
+}
+.button:hover
+{
+    color: beige;
+    background-color: black;
+}
